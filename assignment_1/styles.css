@@ -1,0 +1,49 @@
+.mainwrapper{
+    margin: 5px;
+    padding: 5px;
+}
+
+.wrapper1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.wrapper2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+
+.wrapper3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.submitdiv{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.submitbutton{
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+
+.textinput{
+    width: 100%;
+}
+
+.col1{
+    flex-basis: 100px;
+}
+
+.col2{
+    flex-grow: 1;
+}
